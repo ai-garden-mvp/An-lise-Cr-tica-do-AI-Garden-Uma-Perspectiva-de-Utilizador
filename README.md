@@ -96,13 +96,7 @@ E pronto, meus queridos: o futuro é bonito, mas convém falar português, funci
 - Tamanho ideal: **< 100 MB** (ou usar *Releases* / Git LFS)
 
 ### **Subtítulos**
-Inclui um ficheiro `.srt` para acessibilidade e para utilizadores sem som.
-
-### **Thumbnail**
-Adicionar `thumbnail.jpg` para pré-visualização.
-
-### **Licença**
-Sugestão: **CC BY 4.0**, permitindo partilha com atribuição.
+Não Inclui um ficheiro `.srt` para acessibilidade e para utilizadores sem som.
 
 ---
 
